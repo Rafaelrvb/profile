@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Georama:wght@200;400&display=swap');
+
+body {
+  background-color: #F7F9FC;
+  font-family: 'Georama', sans-serif;
+  color: #575F7D;
+}
+
+h1 {
+  color: #575f7daf;
+  font-weight: bolder;
+
+}
+
+h2, h3 {
+  color:seagreen;
+
+}
+
+p {
+  font-size: large;
+  text-align: justify;
+  padding: 10px 15px;
+}
+
+img {
+
+}
+
+a {
+  color: #4C4630;
+  text-decoration: rgb(109, 182, 49);
+}
+
+a:hover{
+  color: #2E8B57;
+}
+
+i:hover {
+  color: #2E8B57;
+}
+
+.container {
+  width: 40%;
+  margin: 0 auto;
+}
+.card {
+  background-color: white;
+    padding: 20px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.btn-green {
+  border-radius: 15px;
+  padding: 13px 56px;
+  background-color: #C2B3A5;
+  font-weight: bold;
+  display: inline-block;
+
+}
